@@ -203,6 +203,9 @@ span{
 .col-img img{
     height: 80px;
 }
+.change-img img{
+    height: 120px;
+}
 .collection p{
     padding-top: 3px;
     text-align: center;
