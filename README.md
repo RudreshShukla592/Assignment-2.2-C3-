@@ -11,7 +11,8 @@ A webpage recreation built using **HTML5** and **CSS3** as part of the **Hard Se
 
 ## 📸 Preview
 
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/9407e2c1-dcb2-4aa2-81d8-5f3115519d90" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/f2772ba4-e311-42cb-9a15-0af22b322008" />
+
 
 
 ## 🛠️ Tech Stack
